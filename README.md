@@ -14,6 +14,7 @@ This project involves manual testing of the **User Salary Support Service**, des
 - Payment schedule accuracy.
 
 ## Tools & Techniques 🔧
+- **Azure DevOps**: For managing test cases and bug reports.
 - **Documentation**: Test cases and bug reports structured for traceability.
 - **Requirements Analysis**: Extracted from BRD.
 

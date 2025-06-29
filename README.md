@@ -1,5 +1,4 @@
-# User-Salary-Support-QA
-Manual testing project for User Salary Support Service.
+
 # User Salary Support Service - QA Project 🛠️
 
 ## Project Overview
